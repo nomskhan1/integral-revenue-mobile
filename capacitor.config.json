@@ -1,0 +1,9 @@
+{
+  "appId": "com.integralrevenue.app",
+  "appName": "Integral Revenue",
+  "webDir": "www",
+  "server": {
+    "url": "https://integral-revenue.vercel.app",
+    "androidScheme": "https"
+  }
+}
